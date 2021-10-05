@@ -233,7 +233,7 @@ html {
 }
 
 .footer .updates .updates-social .social-body .updates2 img {
-    margin-left: 45px !important
+    margin-left: 45px
 }
 
 .footer .updates .updates-social .social-body .updates2 img:first-child {
@@ -274,8 +274,7 @@ html {
     width: 145px;
     background-color: #fff;
     height: 1px;
-    border-radius: 5px;
-    margin-bottom: 5px
+    border-radius: 5px
 }
 
 .footer .content .footer-content .footer-content1 .footer_nav .footer_ul .footer_li a {
@@ -295,7 +294,7 @@ html {
 
 .footer .content .footer-content .footer-content2 .footer-nav {
     margin-left: 100px;
-    margin-right: 150px
+    margin-right: 100px
 }
 
 .footer .content .footer-content .footer-content2 .footer-nav h4 {
@@ -325,7 +324,7 @@ html {
 .footer .footer-text p::after {
     content: "";
     display: block;
-    width: 100%;
+    width: 1600px;
     margin: 0 auto;
     background-color: rgba(0, 0, 0, .7);
     height: 1px;
@@ -412,7 +411,7 @@ html {
 }
 
 .topbar .topbar-body .topbar-2 .topbar-nav .topbar-ul .topbar-li a {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
     color: #fff
 }
@@ -906,8 +905,7 @@ html {
     width: 70px;
     background-color: #fff;
     height: 1px;
-    border-radius: 5px;
-    margin: 0 auto
+    border-radius: 5px
 }
 
 .tokens .tbody .token .token-body .token-intro .token-buy .buy-text img {
@@ -937,7 +935,7 @@ html {
 .tokens .tbody .token .token-body .token-text .text-body p {
     height: 250px;
     padding: 10px;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 24px;
     color: #fff;
     background: #0071b5;
@@ -1646,6 +1644,14 @@ html {
     .tokens .tbody .token .token-body .token-text .text-body p {
         height: auto
     }
+    .tokens .tbody .token1 .token-body1 {
+        width: 100%;
+        height: 730px;
+        margin-bottom: 50px
+    }
+    .tokens .tbody .token1 .token-body1 .token-text .text-body p {
+        height: auto
+    }
     .collaboration h2 {
         font-size: 36px
     }
@@ -1748,6 +1754,9 @@ html {
         width: 300px
     }
     .tokens .tbody .token .token-body {
+        margin-bottom: 80px
+    }
+    .tokens .tbody .token1 .token-body1 {
         margin-bottom: 80px
     }
 }
