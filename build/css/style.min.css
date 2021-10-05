@@ -274,7 +274,8 @@ html {
     width: 145px;
     background-color: #fff;
     height: 1px;
-    border-radius: 5px
+    border-radius: 5px;
+    margin-bottom: 5px
 }
 
 .footer .content .footer-content .footer-content1 .footer_nav .footer_ul .footer_li a {
