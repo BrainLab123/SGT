@@ -233,7 +233,7 @@ html {
 }
 
 .footer .updates .updates-social .social-body .updates2 img {
-    margin-left: 45px
+    margin-left: 45px !important
 }
 
 .footer .updates .updates-social .social-body .updates2 img:first-child {
