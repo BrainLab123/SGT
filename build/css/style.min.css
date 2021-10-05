@@ -295,7 +295,7 @@ html {
 
 .footer .content .footer-content .footer-content2 .footer-nav {
     margin-left: 100px;
-    margin-right: 100px
+    margin-right: 150px
 }
 
 .footer .content .footer-content .footer-content2 .footer-nav h4 {
@@ -325,7 +325,7 @@ html {
 .footer .footer-text p::after {
     content: "";
     display: block;
-    width: 1600px;
+    width: 100%;
     margin: 0 auto;
     background-color: rgba(0, 0, 0, .7);
     height: 1px;
