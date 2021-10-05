@@ -951,6 +951,137 @@ html {
   background: #0FC4D3;
 }
 
+
+.tokens .tbody .token1 {
+    margin-bottom: 165px
+}
+
+.tokens .tbody .token1 .token-body1 {
+    width: 380px;
+    height: 710px
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    margin-top: 50px
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 img {
+    margin-top: 50px
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 h2 {
+    padding-top: 100px;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #fff
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-soon1 {
+    margin-top: 50px;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #fff
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-soon1 .token-info__first1 h5 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #fff
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-buy1 {
+    margin-top: 100px
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-buy1 .buy-text1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-buy1 .buy-text1 p {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-buy1 .buy-text1 p::after {
+    content: "";
+    display: block;
+    width: 70px;
+    background-color: #fff;
+    height: 1px;
+    border-radius: 5px
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-buy1 .buy-text1 img {
+    margin-top: 0;
+    margin-left: 10px
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-buy1 .token-links1 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 50px;
+    margin-top: 20px
+}
+
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-buy1 .token-links1 a {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #fff
+}
+
+.tokens .tbody .token1 .token-body1 .token-text {
+    margin-top: 60px
+}
+
+.tokens .tbody .token1 .token-body1 .token-text .text-body p {
+    height: 250px;
+    padding: 10px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #fff;
+    background: #0071b5;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+    margin-top: -35px
+}
+
+.tokens .tbody .token1 .token-body1 .token-text .text-body p:hover {
+    background: #0fc4d3
+}
+
 .roadmap {
   margin-top: 100px;
 }
