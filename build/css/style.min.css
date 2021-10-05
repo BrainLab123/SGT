@@ -906,7 +906,8 @@ html {
     width: 70px;
     background-color: #fff;
     height: 1px;
-    border-radius: 5px
+    border-radius: 5px;
+    margin: 0 auto
 }
 
 .tokens .tbody .token .token-body .token-intro .token-buy .buy-text img {
