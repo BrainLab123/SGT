@@ -1061,6 +1061,11 @@ html {
     color: #fff
 }
 
+.tokens .tbody .token1 .token-body1 .token-intro1 .token-buy1 .token-links1 a.disabled {
+    pointer-events: none;
+    cursor: default
+}
+
 .tokens .tbody .token1 .token-body1 .token-text {
     margin-top: 60px
 }
